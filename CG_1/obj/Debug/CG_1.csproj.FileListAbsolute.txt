@@ -1,0 +1,11 @@
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.csproj.AssemblyReference.cache
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.Properties.Resources.resources
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.csproj.GenerateResource.cache
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.csproj.CoreCompileInputs.cache
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\bin\Debug\CG_1.exe.config
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\bin\Debug\CG_1.exe
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\bin\Debug\CG_1.pdb
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.exe
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.pdb
+C:\Users\mksh2\RiderProjects\CG_1\CG_1\obj\Debug\CG_1.Form1.resources
